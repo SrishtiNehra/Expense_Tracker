@@ -60,5 +60,5 @@ Make sure to set up environment variables for MongoDB URI, JWT secret, etc.
 
 ## Contact
 For any queries or feedback, feel free to reach out:  
-📧 **umeshyadav7988@gmail.com**
+📧 **srishtinehra1@gmail.com**
 
